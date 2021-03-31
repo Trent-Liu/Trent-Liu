@@ -2,7 +2,7 @@
 ### Hi there, I’m [Trent-Liu](https://trent-liu.github.io/) 👋
 
 <p align="center">
-  <img src="https://github.com/JasonkayZK/jasonkayzk/blob/master/hello-world.gif" width="30%">
+  <img src="https://github.com/Trent-Liu/Trent-Liu/blob/main/readme1.gif?raw=true" width="30%">
 </p>
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
